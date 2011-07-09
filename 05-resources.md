@@ -4,3 +4,4 @@
     - [Hashrocket - Remote pairing w/ Tmux] (http://blog.voxdolo.me/remote-pairing-with-vim-and-tmux.html)
     - `man tmux`
     - me. seriously, i love to geek out over this shit
+    - [My .tmux.conf] (https://github.com/ajwalters/vixploder/blob/master/lib/dotfiles/tmux.conf)
